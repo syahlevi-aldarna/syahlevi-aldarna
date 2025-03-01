@@ -8,7 +8,7 @@
 
 ---
 
-## 🤔 Intro
+##
 - I'm enthusiastic about AI and front-end development, always eager to explore new technologies and challenges.
 - I enjoy building solutions that blend creativity and technical innovation.
 
